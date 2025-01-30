@@ -1,0 +1,46 @@
+# Streamlit for UI
+streamlit
+
+# OpenAI API (GPT-3.5/4)
+openai
+
+# Tokenizer for chunking text
+tiktoken
+
+# Pinecone Vector DB
+pinecone-client
+
+# YouTube Transcript API
+youtube-transcript-api
+googleapiclient.discovery
+
+# Google API Client (for YouTube Data API)
+google-api-python-client
+
+# LangChain for retrieval-based Q&A
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-text-splitters
+
+# Pandas & NumPy for data handling
+pandas
+numpy
+
+# TQDM for progress bars
+tqdm
+
+# Python Dotenv for environment variables
+python-dotenv
+
+# Pathlib for handling file paths
+pathlib
+
+
+# PyJWT for token handling (if needed)
+pyjwt
+
+
+# Pydantic (used in LangChain retrievers)
+pydantic
