@@ -9,7 +9,6 @@ tiktoken
 
 # Pinecone Vector DB
 pinecone
-pinecone-client
 
 # YouTube Transcript API
 youtube-transcript-api
@@ -19,7 +18,6 @@ google-api-python-client
 
 # LangChain for retrieval-based Q&A
 langchain
-langchain-community
 langchain-core
 langchain-openai
 langchain-text-splitters
@@ -28,17 +26,11 @@ langchain-text-splitters
 pandas
 numpy
 
-# TQDM for progress bars
-tqdm
-
 # Python Dotenv for environment variables
 python-dotenv
 
 # Pathlib for handling file paths
 pathlib
-
-# PyJWT for token handling (if needed)
-pyjwt
 
 # Pydantic (used in LangChain retrievers)
 pydantic
