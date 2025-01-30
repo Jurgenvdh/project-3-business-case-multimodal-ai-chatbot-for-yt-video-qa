@@ -1,18 +1,18 @@
 # Streamlit for UI
 streamlit
 
-# OpenAI API (GPT-3.5/4)
+# OpenAI API (GPT-4)
 openai
 
 # Tokenizer for chunking text
 tiktoken
 
 # Pinecone Vector DB
+pinecone
 pinecone-client
 
 # YouTube Transcript API
 youtube-transcript-api
-googleapiclient.discovery
 
 # Google API Client (for YouTube Data API)
 google-api-python-client
@@ -37,10 +37,8 @@ python-dotenv
 # Pathlib for handling file paths
 pathlib
 
-
 # PyJWT for token handling (if needed)
 pyjwt
-
 
 # Pydantic (used in LangChain retrievers)
 pydantic
