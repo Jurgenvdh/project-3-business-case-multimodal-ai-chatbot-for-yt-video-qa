@@ -1,0 +1,5 @@
+[theme]
+base="dark"
+backgroundColor="#580000"
+textColor="#a1c8ff"
+fontFamily="Orbitron, sans-serif"

@@ -1,0 +1,12 @@
+openai
+tiktoken
+streamlit
+pydantic
+pinecone-client
+python-dotenv
+langchain
+langchain-core
+langchain-text-splitters
+google-api-python-client
+youtube-transcript-api
+
